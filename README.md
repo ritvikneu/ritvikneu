@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **ritvik.param@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tRxnNahkJNi9JzGrfYK7o5-UqkB1fTHM/view?usp=drive_link](https://drive.google.com/file/d/1tRxnNahkJNi9JzGrfYK7o5-UqkB1fTHM/view?usp=drive_link)
+- 📄 Here is my <a href="https://ritvikparamkusham.carrd.co/" target="blank"> Portfolio </a>
 
-- ⚡ Fun fact **ambivert**
+- ⚡ Fun fact **ambivert** **explorer** - ask me about this
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
