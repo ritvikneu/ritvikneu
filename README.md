@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritvikneu" alt="ritvikneu" /></a> </p>
 
-- 🔭 I’m currently working on **to create web extensions that convert audio from any video to text**
-
-- 🌱 I’m currently learning **technologies related to cloud computing and its practical implementations**
+- 🔭  I'm Ritvik Paramkusham, a full-stack Developer with 5 years of experience and a Master's in Information Systems, from Northeastern University. Throughout my professional journey, I have consistently applied my skills in various programming languages, including Java, Python, and JavaScript, to tackle complex challenges and deliver tangible results. I am proficient in various frameworks and tools, such as Spring Boot, React JS, and NodeJS, enabling me to create efficient and robust solution architectures. I also have experience in Cloud and DevOps technologies, such as AWS, GCP, Docker, Kubernetes, and am committed to continuously improving and expanding my skills
 
 - 💬 Ask me about **Java and Data Structures**
 
 - 📫 How to reach me **ritvik.param@gmail.com**
 
 - 📄 Here is my <a href="https://ritvikparamkusham.carrd.co/" target="blank"> Portfolio </a>
-
-- ⚡ Fun fact **ambivert** **explorer** - ask me about this
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
