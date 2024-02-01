@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ritvik.param@gmail.com**
 
-- 📄 Here is my <a href="https://ritvikparamkusham.carrd.co/" target="blank"> Portfolio </a>
+- 📄 Here is my <a href="https://ritvikneu.github.io/" target="blank"> Portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
