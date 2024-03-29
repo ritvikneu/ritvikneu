@@ -2,11 +2,9 @@
 <h3 align="center">Tech enthusiast with full-stack web and cloud expertise. Aiming to create user-friendly, time-saving products.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritvikneu" alt="ritvikneu" /></a> </p>
+- 🔭 Currently, I'm exploring AI space and building AI apps to automate stuff
 
-- 🔭  I'm Ritvik Paramkusham, a full-stack Developer with 5 years of experience and a Master's in Information Systems, from Northeastern University. Throughout my professional journey, I have consistently applied my skills in various programming languages, including Java, Python, and JavaScript, to tackle complex challenges and deliver tangible results. I am proficient in various frameworks and tools, such as Spring Boot, React JS, and NodeJS, enabling me to create efficient and robust solution architectures. I also have experience in Cloud and DevOps technologies, such as AWS, GCP, Docker, Kubernetes, and am committed to continuously improving and expanding my skills
-
-- 💬 Ask me about **Java and Data Structures**
+- 💬 Ask me about **current projects I'm working on**
 
 - 📫 How to reach me **ritvik.param@gmail.com**
 
