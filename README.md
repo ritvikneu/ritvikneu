@@ -19,6 +19,8 @@
 <a href="https://instagram.com/ritvikparamkusham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritvikparamkusham" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 # 💻 Tech Stack:
 
 ### Programming Languages:
